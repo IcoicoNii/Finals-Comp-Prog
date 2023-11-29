@@ -1,0 +1,5 @@
+﻿  Finals Compiled.cpp
+C:\Users\Teodorico Carpio Jr\source\repos\Compiled\Finals Compiled\functions.h(209,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Teodorico Carpio Jr\source\repos\Compiled\Finals Compiled\functions.h(212,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Teodorico Carpio Jr\source\repos\Compiled\Finals Compiled\Finals Compiled.cpp(97,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Finals Compiled.vcxproj -> C:\Users\Teodorico Carpio Jr\source\repos\Compiled\Finals Compiled\x64\Debug\Finals Compiled.exe
